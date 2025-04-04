@@ -24,7 +24,7 @@ body {
     align-items: center;
     justify-content: center; /* Centrado horizontal */
     width: 100%;
-    min-height: 700px; /* Más altura */
+    min-height: 710px; /* Más altura */
     background-image: url('banner-2.jpg');
     background-size: cover;
     background-position: center;
